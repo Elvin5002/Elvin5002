@@ -1,8 +1,10 @@
 # Hi there! 👋 I'm Elvin Seyfullayev
 
 ## 🛠 Technologies I Work With:
-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square) Cross-platform mobile app development.
-- ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square)  Native Android app development.
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
+  Cross-platform mobile app development.
+- ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square)
+  Native Android app development.
 
 ## What I Do:
 - Develop engaging mobile apps using **Flutter** for cross-platform solutions.
@@ -30,7 +32,6 @@
 - Programming: **Flutter**, **Dart**, **Kotlin**
 - Architecture Patterns: **Bloc**, **MVVM**
 - Tools: **Android Studio**, **VS Code**, **Git**
-
 
 ## Let's Connect:
 - 💼 [LinkedIn](https://www.linkedin.com/in/elvinseyfullayev/)
