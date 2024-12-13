@@ -2,9 +2,9 @@
 
 ## 🛠 Technologies I Work With:
 - ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
-  Cross-platform mobile app development.
+Cross-platform mobile app development.
 - ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square)
-  Native Android app development.
+Native Android app development.
 
 ## What I Do:
 - Develop engaging mobile apps using **Flutter** for cross-platform solutions.
