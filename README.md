@@ -30,7 +30,7 @@ Native Android app development.
 
 ## Tools & Technologies:
 - Programming: **Flutter**, **Dart**, **Kotlin**
-- Architecture Patterns: **Bloc**, **MVVM**
+- Architecture Patterns: **Bloc**, **MVVM**, **MVI**
 - Tools: **Android Studio**, **VS Code**, **Git**
 
 ## Let's Connect:
